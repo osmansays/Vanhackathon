@@ -1,0 +1,10 @@
+C:\Users\osman\source\repos\hackathon\ImmigrationFormFiller\ImmigrationFormFiller\bin\Debug\netcoreapp2.2\ImmigrationFormFiller.deps.json
+C:\Users\osman\source\repos\hackathon\ImmigrationFormFiller\ImmigrationFormFiller\bin\Debug\netcoreapp2.2\ImmigrationFormFiller.runtimeconfig.json
+C:\Users\osman\source\repos\hackathon\ImmigrationFormFiller\ImmigrationFormFiller\bin\Debug\netcoreapp2.2\ImmigrationFormFiller.runtimeconfig.dev.json
+C:\Users\osman\source\repos\hackathon\ImmigrationFormFiller\ImmigrationFormFiller\bin\Debug\netcoreapp2.2\ImmigrationFormFiller.dll
+C:\Users\osman\source\repos\hackathon\ImmigrationFormFiller\ImmigrationFormFiller\bin\Debug\netcoreapp2.2\ImmigrationFormFiller.pdb
+C:\Users\osman\source\repos\hackathon\ImmigrationFormFiller\ImmigrationFormFiller\obj\Debug\netcoreapp2.2\ImmigrationFormFiller.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\hackathon\ImmigrationFormFiller\ImmigrationFormFiller\obj\Debug\netcoreapp2.2\ImmigrationFormFiller.AssemblyInfoInputs.cache
+C:\Users\osman\source\repos\hackathon\ImmigrationFormFiller\ImmigrationFormFiller\obj\Debug\netcoreapp2.2\ImmigrationFormFiller.AssemblyInfo.cs
+C:\Users\osman\source\repos\hackathon\ImmigrationFormFiller\ImmigrationFormFiller\obj\Debug\netcoreapp2.2\ImmigrationFormFiller.dll
+C:\Users\osman\source\repos\hackathon\ImmigrationFormFiller\ImmigrationFormFiller\obj\Debug\netcoreapp2.2\ImmigrationFormFiller.pdb
