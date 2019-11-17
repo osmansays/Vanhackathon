@@ -6,13 +6,31 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Aspose.PDF" Version="19.11.0" />
-    <PackageReference Include="CsvHelper" Version="12.2.1" />
+    <None Remove="Dataset\HiredCandidates.csv" />
+    <None Remove="Docs\ESDC-EMP5624.pdf" />
+    <None Remove="Docs\output\Note.txt" />
+    <None Remove="logs\Note.txt" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="dataset\" />
-    <Folder Include="Docs\" />
+    <Content Include="Dataset\HiredCandidates.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Docs\ESDC-EMP5624.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Docs\output\Note.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="logs\Note.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="12.2.1" />
+    <PackageReference Include="itext7" Version="7.1.8" />
+    <PackageReference Include="NLog" Version="4.6.8" />
   </ItemGroup>
 
 </Project>

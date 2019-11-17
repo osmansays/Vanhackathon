@@ -21,16 +21,6 @@ namespace ImmigrationFormFiller
             this.Position = position;
             this.SkillsAsText = skills;
         }
-
-        //public Candidate(int userid, int jobid, string[] skills, string position)
-        //{
-        //    CreateCandidate(userid, jobid, skills, position);
-        //}
-        //public Candidate(int userid, int jobid, string skills, string position)
-        //{
-        //    string[] SkillAsArray = skills.Replace(", ", ",").Split(',');
-        //    CreateCandidate(userid, jobid, SkillAsArray, position);
-        //}
         
     }
 
