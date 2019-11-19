@@ -18,7 +18,8 @@ D:\Data\Vanhackation\Vanhackaton\obj\Debug\netcoreapp2.2\ImmigrationFormFiller.A
 D:\Data\Vanhackation\Vanhackaton\obj\Debug\netcoreapp2.2\ImmigrationFormFiller.AssemblyInfo.cs
 D:\Data\Vanhackation\Vanhackaton\obj\Debug\netcoreapp2.2\ImmigrationFormFiller.dll
 D:\Data\Vanhackation\Vanhackaton\obj\Debug\netcoreapp2.2\ImmigrationFormFiller.pdb
-D:\Data\Vanhackation\Vanhackaton\bin\Debug\netcoreapp2.2\Dataset\HiredCandidates.csv
 D:\Data\Vanhackation\Vanhackaton\bin\Debug\netcoreapp2.2\Docs\ESDC-EMP5624.pdf
 D:\Data\Vanhackation\Vanhackaton\bin\Debug\netcoreapp2.2\Docs\output\Note.txt
 D:\Data\Vanhackation\Vanhackaton\bin\Debug\netcoreapp2.2\logs\Note.txt
+D:\Data\Vanhackation\Vanhackaton\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Data\Vanhackation\Vanhackaton\bin\Debug\netcoreapp2.2\Dataset\TalentsForms.csv

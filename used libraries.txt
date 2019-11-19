@@ -1,4 +1,7 @@
-xUnit
-itext7 -Version 7.1.8  --Install-Package itext7 -Version 7.1.8
-NLog for .NET Framework  -- Install-Package NLog -Version 4.6.8
-CsvHelper
+xUnit Version 2.4.1
+itext7 Version 7.1.8 
+NLog for .NET Framework Version 4.6.8
+CsvHelper Version 12.2.1
+Microsoft.Extensions.Configuration.FileExtensions 
+Microsoft.Extensions.Configuration.Json 
+Microsoft.Extensions.Configuration
