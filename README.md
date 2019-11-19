@@ -8,7 +8,10 @@ Immigration forms filler applications is built for VanHack Hackathon Challenge f
 
   - All default configuration shipped with the solution .User can still do any changes on appsettings.json file .
   - appsetting.json contiains information on where to find CVS , form template & output directory.
-  - appsetting containers number of expected candidates which is used for testing to isure the applicatioin generates forms for all candidiates as expected .
+  - appsetting containers number of expected candidates which is used for testing to insure the applicatioin generates forms for all candidiates as expected .
+  - Before Running the application , make sure you fill all required filed on the CSV file located on (Dataset\TalentsForms.csv).
+  - The template pdf file is located on on Docs folder named ESDC-EMP5624.pdf .
+  - Generated files will saved with Talent Id appended to it's name , located on Docs\output .
 
 
 ### 3rd Party Tools and Extensions
